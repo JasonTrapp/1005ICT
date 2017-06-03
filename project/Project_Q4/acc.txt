@@ -1,0 +1,7 @@
+name Sara bsb 1234 accno 155099 balance 100.0 password lee3
+name Babak bsb 233 accno 111 balance 200.0 password r44r
+name Hassa bsb 11 accno 212 balance 300.0 password rete
+name Ali bsb 1234 accno 455434 balance 1000.0 password xxxx
+name Jack bsb 1234 accno 678555 balance 2000.0 password y4yy
+name Andrew bsb 2433 accno 1131 balance 2030.0 password 4t34t3
+
